@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WodTimer</string>
+    <string name="elapsed_seconds">%d seconds</string>
 </resources>
